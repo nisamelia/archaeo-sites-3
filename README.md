@@ -1,5 +1,6 @@
 ## NAMA PRODUK
 ARCHAEO SITES
+(Responsi Pemrograman Geospasial Perangkat Bergerak Lanjut)
 
 ## DESKRIPSI PRODUK
 Aplikasi ini dibuat untuk memberikan informasi mengenai situs arkeologi yang ada di Provinsi Daerah Istimewa Yogyakarta. Hal tersebut bertujuan untuk melestarikan dan media informasi kepada masyarakat terkait situs arkeologi di DIY. Selain itu, pemanfaatan bidang geospasial berfungsi untuk memetakan titik dan menentukan rute perjalanan untuk masyarakat dapat mengetahui letak situs.
