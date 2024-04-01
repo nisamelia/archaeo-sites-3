@@ -9,7 +9,7 @@ Aplikasi ini dibuat untuk memberikan informasi mengenai situs arkeologi yang ada
 - Framework :React-Native
 - Icon : FontAwesome5, React-Native Vector Icon
 - Data Store : Spreadsheet
-- Plugin Peta : Leaflet.js
+- Maps Library : Leaflet.js
 - Basemap : Google Satellite, Topo Vector, Carto DB
 
 ## SUMBER DATA
